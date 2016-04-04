@@ -1,0 +1,169 @@
+/**********************************************
+GENERAL
+**********************************************/
+
+body {
+  background-color: white;
+  font-family: Pompiere, sans-serif, serif;
+  font-size: 28px;
+}
+
+header {
+  text-align: left;
+  width: 100%;
+  margin: 0 0 0 0;
+}
+
+h1 {
+  margin-bottom: -60px;
+  padding: 10px 10px 10px 75px;
+}
+
+h4 {
+  padding: 10px 10px 10px 75px;
+}
+
+#header {
+  display:block;
+}
+
+#intro {
+  max-height: 900px;
+  max-width: 600px;
+  margin: auto;
+  clear: left;
+  text-align: center;
+}
+
+#three {
+  clear: both;
+  display: inline;
+  float: left;
+  margin: 100px 125px;
+  max-width: 370px;
+}
+
+#section {
+  float: right;
+  margin-top: 150px;
+  margin-right: 250px;
+}
+
+#realtor {
+  max-width: 370px;
+  margin: auto;
+  text-align: center;
+  padding-top: 37px;
+}
+
+/**********************************************
+NAVIGATION
+**********************************************/
+
+nav {
+  text-align: right;
+  background-color: #CDBFAC; 
+}
+
+nav ul{
+  list-style: none;
+  margin-right: 45px;
+}
+
+nav li {
+  display: inline;
+  padding: 5px 5px 5px 10px;
+  text-align: center;
+}
+
+
+/**********************************************
+IMAGE
+**********************************************/
+
+header img {
+  max-width: 100%;
+  width: 200px;
+  margin: -145px 390px 0;
+  padding: 5px 5px 5px 5px;
+  float: left;
+  clear: left;
+}
+
+#porch {
+  max-width: 100%;
+  height: 550px;
+  float: left;
+  margin: 10px 125px;
+  border: double #CDBFAC 7px; 
+}
+
+.noelle {
+  border-radius: 100%;
+  max-width: 100%;
+  width: 200px;
+  border-radius: 5%;  
+  margin-left: 85px;
+}
+
+.home {
+  text-align: left;
+  padding-top: 100px;
+}
+
+#home {
+  text-align: left;
+  height: 185px;
+  margin-right: 150px;
+}
+
+
+/**********************************************
+LINKS
+**********************************************/
+
+a {
+  text-decoration: none;
+  color: #4a4242;
+}
+
+.amjr {
+  color:#5A8B2A;
+}
+
+
+/**********************************************
+FOOTER
+**********************************************/
+
+
+footer {
+  margin-top: 100px;
+  clear: both;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.social-icon {
+  max-width: 100%;
+  width: 40px;
+  margin: 0 5px;
+}
+
+
+/**********************************************
+CONTACT
+**********************************************/
+
+#wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+#contact-pic {
+  max-width: 100%;
+  width: 200px;
+  border-radius: 5%;
+  margin-left: 100px;
+}
+
